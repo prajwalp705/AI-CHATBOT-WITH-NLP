@@ -55,3 +55,5 @@ These features make development faster and more efficient, especially when worki
 
 Conclusion:
 Creating an AI chatbot using NLP gives practical experience with natural language understanding and processing. It provides insights into how machines interpret human language and respond intelligently. This project enhances skills in Python, NLP, and logical thinking. With the support of libraries like NLTK and development platforms like VS Code, building such a chatbot becomes a structured and achievable task, paving the way for more advanced conversational AI applications in the future.
+
+<img width="571" height="251" alt="Image" src="https://github.com/user-attachments/assets/269e5097-87a7-4b32-aec4-9580520a68e5" />
